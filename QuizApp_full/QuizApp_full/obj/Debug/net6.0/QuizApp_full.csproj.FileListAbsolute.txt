@@ -1,0 +1,15 @@
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.csproj.AssemblyReference.cache
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.AssemblyInfoInputs.cache
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.AssemblyInfo.cs
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\bin\Debug\net6.0\QuizApp_full.exe
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\bin\Debug\net6.0\QuizApp_full.deps.json
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\bin\Debug\net6.0\QuizApp_full.runtimeconfig.json
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\bin\Debug\net6.0\QuizApp_full.dll
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\bin\Debug\net6.0\QuizApp_full.pdb
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.dll
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\refint\QuizApp_full.dll
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.pdb
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\QuizApp_full.genruntimeconfig.cache
+D:\Bootcamp\Ilmhub_lessons\Lessons\QuizApp_full\obj\Debug\net6.0\ref\QuizApp_full.dll
